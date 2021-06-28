@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-remote-switch",
+  "private_key_id": "99791857d8fdb6d418ef424c2e3d09957414fa83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCLk+tps8BNHg4Y\ndHOSx/RGfLRJkJNUZIs3WS+bX318n7D1Pp1OksN8Zt9G8t22Mr45tBhnf/rPSTDC\nYh1nlbNNpkmIF90g8z/Mi+KIEErYFArgLtmh90XgTk+OarB1XQnl1q0stnPUxNpt\ncMFveRDNsApqt3Y1izh/KZnC1alJYocAxbxCzBP9USE9l5gmgWWPDzcwaL/9z4Q9\ndWvYuomi8fLScqySWfb1mSEJA9syQ12pUOHkixuvyFJMl1x6xCrl/iOzESIpQP8v\n8fpHwIyqN7wgIlJYd8lcX1dutf6wv9DqqvZjizCCJdP6qt05MHIUphBsbVU4Is7Y\nl84l5neDAgMBAAECggEAElI7y/eqzdScoAwlIYa6o0f6OE/Qbvr1pTHBRIFPzPx/\nM2nhJy+vllRAiaUWgjR98MAZlfhgGTZvvow3dOHbE924eDM9tPYJEVXpSdftoxha\nZxvvOEnnc66D1dteR0GLq4421BAs+yhNzaDH21SGZqFtdJ2ZWCTqqRJyWvdFzdp9\n4kGwqEDI/pxVaxf5C+5I+VEGi5sxWkhlQUGZ5D0eydeB399gbGTDye8J3xobRskI\nSM7GmICAseGT7Xxkecz7s2h030hFtU4X4kkAvKCsLrgMXtNL0M8TNVoJa2VFVJ+9\ncTuqXpFzGjCDoAfhkzuty5ZMECZ80AWQDzpeUA0IAQKBgQC/Grd2eSfWDzU5j8tz\nC+p8wdf1zLLtM3j3nHa9/KO6i4Of87/lk/J1eBTTP9R2A1Tdcg2ScPtp1JnXKpI5\naCVaXgMFvZnXybLd5SJ87oAX/uGoTWViChzoq1P7qYIIDqUetEJJuxkkT8jUV7Dc\nVudN5YYpYi5ao6c7jWkXLr+/gwKBgQC6+dfYqfM+f6ZEg3vSYJZRKaWLrasrxRfY\nsBY6lDTVsviqd+8LgV3+Ec9cf1bft+b0dV4kCjolshs3xZ/W1v/2TF6QBGaNLfA1\nmzE/Ik4L2OANKTZORC5EzWWu500HSVEbrbGcNZT6uWPsSsV2DkbKIEWxEvLubFtQ\nfc3ofIjoAQKBgEKELxVaiEYWlwUJCtxpal2wLtYMQL8VKmatHBt2wxpcEx1qfwGO\npFbEzCLXVcEZ2cEWQKkXEDs+16kv1SOMH2w7yruFyfV07AAWEBICBa3UdoDZJ4+f\nS36km5+92VeqmUh9n5EAQXkFGDboqtOWn/3aBP+Ef/PmgH/W8ZwzFmS3AoGANKBJ\nvnPnQPoQxEv1t/rzlBiSvcO93+3zjkvRld9NF7DuCJ0FLUnWOMKuiKxWuVU7riay\nvpYaU63Tt1jqaj/Nf3dzTjnO24HIkG4D6G8xZGhAd7PX0yOhmj/tlNMJfTmHmLDE\nwuDZ88/mbgWFmnreNdnrg7F/qtfYw8kFAaC7sAECgYAiQOpb0znFyovzmVpRpfLj\nsJXxzanj8Fp/TY3rsXHAn+BhD/czuuh78+iges1/u+DHfE5Gp1slJpSgIS4hWM4V\n+Fzg8UXDoK9kSG7AjOhtIwuQp374OtQog6u4wfnEvmN/m74EIU5wfniVMC8MH9Kp\nGUFWEmnfuk36R1BeT0rg4g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-f0x7m@cloud-remote-switch.iam.gserviceaccount.com",
+  "client_id": "106535045715293784720",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-f0x7m%40cloud-remote-switch.iam.gserviceaccount.com"
+}
