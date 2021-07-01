@@ -1,19 +1,17 @@
-from firebase_admin import db
-import firebase_admin
-from firebase_admin import credentials
+from time import sleep
 
-from config import Config
+from listen_firebase import runFirebaseSyncer
+from utils import is_internet_alive
 
 
-def initFirebase():
-    credential = credentials.Certificate(Config.firebaseSdk)
-    firebase_admin.initialize_app(credential, {
-        'databaseURL': 'https://cloud-remote-switch-default-rtdb.asia-southeast1.firebasedatabase.app/'
-    })
+def automateInternetConnection():
+
+    if is_internet_alive():
+        runFirebaseSyncer()
+    else:
+        sleep(5)
+        automateInternetConnection()
 
 
 if __name__ == '__main__':
-    initFirebase()
-
-    rootRef = db.reference("/")
-    rootRef.child("liot").set("ttt")
+    automateInternetConnection()
